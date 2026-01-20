@@ -1,0 +1,8 @@
+
+{
+  "name": "필통녹음기 PRO",
+  "description": "Gemini Live API 기반 실시간 고정밀 텍스트 변환 및 레코더",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
